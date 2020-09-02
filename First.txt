@@ -1,3 +1,7 @@
 Git is a free and open source distributed version control system designed to handle 
 everything from small to very large projects with 
 speed and efficiency.....this is First Updation....
+
+
+Git also has excellent support for branching, merging, and rewriting repository history, 
+which has lead to many innovative and powerful workflows and tools.
